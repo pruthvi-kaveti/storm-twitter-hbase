@@ -1,0 +1,8 @@
+0:source: spout:3, stream: default, id: {}, [RT @TheUnRealTimes: COMIC: What Santa got for Modi on Christmas eve… http://t.co/vz80wSCCtS [Idea: @kaushikrg] Merry Christmas!]
+1:source: spout:3, stream: default, id: {}, [RT @EconomicTimes: Prime Minister Narendra Modi wishes Pakistani counterpart Nawaz Sharif on his birthday. (Times Now)]
+2:source: spout:3, stream: default, id: {}, [RT @DrunkVinodMehta: So, Modi JI will never become First BJP PM to receive #BharatRatna. Sad.]
+3:source: spout:3, stream: default, id: {}, [RT @firstpostin: PM Modi visits former Prime Minister Atal Bihari Vajpayee to convey his birthday wishes.]
+4:source: spout:3, stream: default, id: {}, [RT @FundNewsEditor: Precidian Takes Another Pass at Non-Transparent ETFs: Precidian Investments earlier this week modi... http://t.co/LdoL9…]
+5:source: spout:3, stream: default, id: {}, [RT @timesnow: PM Narendra Modi meets former Prime Minister Atal Bihari Vajpayee to wish him on his birthday]
+6:source: spout:3, stream: default, id: {}, [RT @haardik2005: @IndiaBTL @upma23 n where the hell is Derek o brien who called MODI Ji butcher of Gujarat. Moron]
+7:source: spout:3, stream: default, id: {}, [9 Key Terms You Shd Know Before Seeing The Massive #Hokusai Exhibition http://t.co/aIexohEGXx via @HuffPostIndia #Modi #Arts #Paintings]
